@@ -1,4 +1,4 @@
-<h1 align="center">🌥️ iMovi </h1>
+<h1 align="center">🌥 iMovi </h1>
 
 <p align="center">
 Web site de venda de imóveis.  <br/>
