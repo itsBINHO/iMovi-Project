@@ -1,7 +1,7 @@
 <h1 align="center"> iMovi </h1>
 
 <p align="center">
-Web site de venda de imóveis.  <br/>
+Layout de site de venda de imóveis.  <br/>
 </p>
 
 <br>
